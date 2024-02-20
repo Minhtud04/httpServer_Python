@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0         #not necessary
+Accept: text/html               #
+Connection: keep-alive
+Content-Type: text/html
+Content-Length: 0
+Origin: http://www.google.com
+
+
